@@ -43,7 +43,6 @@ lib_fixups: lib_fixups_user_type = {
         'vendor.qti.hardware.qccsyshal@1.1',
         'vendor.qti.hardware.qccsyshal@1.2',
         'vendor.qti.hardware.wifidisplaysession@1.0',
-        'vendor.qti.qspmhal@1.0',
     ): lib_fixup_vendor_suffix,
 }
 
@@ -69,17 +68,8 @@ blob_fixups: blob_fixups_user_type = {
     'vendor/lib64/libqcodec2_core.so': blob_fixup()
         .add_needed('libcodec2_shim.so'),
     (
-        'vendor/bin/poweropt-service',
-        'vendor/lib64/libaodoptfeature.so',
-        'vendor/lib64/libapengine.so',
         'vendor/lib64/libdpps.so',
-        'vendor/lib64/libgamepoweroptfeature.so',
-        'vendor/lib64/liblearningmodule.so',
-        'vendor/lib64/libpowercore.so',
-        'vendor/lib64/libpsmoptfeature.so',
         'vendor/lib64/libsnapdragoncolor-manager.so',
-        'vendor/lib64/libstandbyfeature.so',
-        'vendor/lib64/libvideooptfeature.so',
     ): blob_fixup()
         .replace_needed('libtinyxml2.so', 'libtinyxml2-v34.so'),
 }  # fmt: skip
