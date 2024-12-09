@@ -14,4 +14,9 @@
 
     <!-- Whether device has screen with higher aspect ratio -->
     <bool name="config_haveHigherAspectRatioScreen">true</bool>
+
+    <!-- Some devices might require always setting the toggle instead of set based on current toggle
+         value. If this is the case, set this config to true to let the toggle provider always set
+         charging enabled status regardless of the current status. -->
+    <bool name="config_chargingControlToggleSetAlways">true</bool>
 </resources>
