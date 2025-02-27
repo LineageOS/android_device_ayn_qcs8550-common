@@ -1,0 +1,5 @@
+# Display
+sys.brightness.disable_gamma_conversion=true
+
+# Vendor
+ro.vendor.qti.va_aosp.support=1
