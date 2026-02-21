@@ -33,6 +33,29 @@
       "message": "Camera stack can probably be included for external camera support.",
       "revId": "56931cbc76da4b749b6b6e18bb685e9e24888c54",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "797d54ec_e69491e8",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-02-21T23:03:13Z",
+      "side": 1,
+      "message": "afaik this is common between all the devices, but needs to be double checked across all four.",
+      "range": {
+        "startLine": 169,
+        "startChar": 0,
+        "endLine": 169,
+        "endChar": 19
+      },
+      "revId": "56931cbc76da4b749b6b6e18bb685e9e24888c54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
