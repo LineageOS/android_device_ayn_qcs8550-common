@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "2682093b_fffea892",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-02-25T07:10:07Z",
+      "side": 1,
+      "message": "Why is this even two commits in the first place? My original commit just removed all google includes, as the commit message states. There\u0027s no need to rename and use a second commit to remove the rename.",
+      "revId": "73ddfcdc729818db0a89f671eb911d461e3edfe3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "7ea7152d_ce913509",
         "filename": "configs/media/media_codecs_kalama_iot_vendor.xml",
         "patchSetId": 3
