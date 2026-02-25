@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d48d3d5c_1afb26b8",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-02-25T06:47:46Z",
+      "side": 1,
+      "message": "really? Do we need that? I fit full GMS on my builds.",
+      "range": {
+        "startLine": 94,
+        "startChar": 0,
+        "endLine": 94,
+        "endChar": 50
+      },
+      "revId": "27fb572da6f32e55c14cd3b3a5534499b2b16ebe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f79613f8_457d4a22",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-02-25T06:47:46Z",
+      "side": 1,
+      "message": "just set this to SUPER_PARTITON_SIZE- -4MiB like some other devices do, that way if someone resizes super partition, dynamic grows consumerate.",
+      "range": {
+        "startLine": 110,
+        "startChar": 37,
+        "endLine": 110,
+        "endChar": 47
+      },
+      "revId": "27fb572da6f32e55c14cd3b3a5534499b2b16ebe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
