@@ -26,6 +26,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "553838c5_ac093677",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-02-25T06:48:45Z",
+      "side": 1,
+      "message": "note for later, we can EROFS vendor, vendor_dlkm, system_dlkm, odm and save loads of space.",
+      "range": {
+        "startLine": 103,
+        "startChar": 39,
+        "endLine": 103,
+        "endChar": 43
+      },
+      "revId": "27fb572da6f32e55c14cd3b3a5534499b2b16ebe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "f79613f8_457d4a22",
         "filename": "BoardConfigCommon.mk",
         "patchSetId": 3
