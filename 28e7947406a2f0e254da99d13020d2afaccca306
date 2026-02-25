@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "af48c9a7_d3058ed6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-02-25T08:06:02Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_device_sony_sm8550-common/commit/f69878e2e0484c30cbe08a47f9333950844dca15",
+      "revId": "28e7947406a2f0e254da99d13020d2afaccca306",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a872f169_16a28ad9",
@@ -38,6 +55,30 @@
       "side": 1,
       "message": "init.target.rc is edited to load fstab.default. See\n\nIb0eac47f3428fe1135ba00ee9fe1f83d2f019d32",
       "parentUuid": "a872f169_16a28ad9",
+      "range": {
+        "startLine": 45,
+        "startChar": 23,
+        "endLine": 45,
+        "endChar": 36
+      },
+      "revId": "28e7947406a2f0e254da99d13020d2afaccca306",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "83a2a53b_99d05ff9",
+        "filename": "common.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-02-25T08:06:02Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_device_sony_sm8550-common/commit/f69878e2e0484c30cbe08a47f9333950844dca15",
+      "parentUuid": "9de3cb41_9dca0d10",
       "range": {
         "startLine": 45,
         "startChar": 23,
