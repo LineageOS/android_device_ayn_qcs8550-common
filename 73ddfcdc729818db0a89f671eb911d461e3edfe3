@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7ea7152d_ce913509",
+        "filename": "configs/media/media_codecs_kalama_iot_vendor.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-02-25T06:58:30Z",
+      "side": 1,
+      "message": "why not just remove it?",
+      "range": {
+        "startLine": 123,
+        "startChar": 0,
+        "endLine": 123,
+        "endChar": 48
+      },
+      "revId": "73ddfcdc729818db0a89f671eb911d461e3edfe3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
