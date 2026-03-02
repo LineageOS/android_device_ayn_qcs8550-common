@@ -57,6 +57,30 @@
       },
       "revId": "73ddfcdc729818db0a89f671eb911d461e3edfe3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca3d63ce_7b1ea017",
+        "filename": "configs/media/media_codecs_kalama_iot_vendor.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-03-02T23:18:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7ea7152d_ce913509",
+      "range": {
+        "startLine": 123,
+        "startChar": 0,
+        "endLine": 123,
+        "endChar": 48
+      },
+      "revId": "73ddfcdc729818db0a89f671eb911d461e3edfe3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
