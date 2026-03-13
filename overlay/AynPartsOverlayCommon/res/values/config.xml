@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+
+<resources>
+    <!-- Full path to the sysfs gamepad layout node -->
+    <string name="config_nodeGamepadLayout" translatable="false">/sys/class/moorechip-joystick/joystick/layout</string>
+
+    <!-- Full path to the sysfs gamepad triggers mode node -->
+    <string name="config_nodeGamepadTriggers" translatable="false">/sys/class/moorechip-joystick/joystick/triggers</string>
+</resources>
