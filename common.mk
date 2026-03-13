@@ -81,6 +81,10 @@ PRODUCT_COPY_FILES += \
 
 $(call soong_config_set_bool,android_hardware_audio,skip_speaker_layout_channel_mask_field,true)
 
+# AynParts
+PRODUCT_PACKAGES += \
+    AynParts
+
 # Bluetooth
 PRODUCT_PACKAGES += \
     lib_bt_aptx \
@@ -166,6 +170,7 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.rc \
     init.qcom.usb.sh \
     init.target.rc \
+    ueventd.ayn.rc \
     ueventd.qcom.rc
 
 # Kernel
@@ -203,6 +208,7 @@ PRODUCT_PACKAGES += \
 # Overlays
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
+    AynPartsOverlayCommon \
     FrameworksResCommon \
     FrameworksResTarget \
     LineageSDKOverlayCommon \
