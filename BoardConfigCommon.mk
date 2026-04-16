@@ -104,6 +104,7 @@ SYSTEM_KERNEL_MODULES := $(strip $(shell cat $(MODULE_LISTS_PATH)/modules.includ
 
 TARGET_KERNEL_EXT_MODULE_ROOT := kernel/ayn/qcs8550-modules
 TARGET_KERNEL_EXT_MODULES := \
+    ayn/logger \
     qcom/opensource/mmrm-driver \
     qcom/opensource/mm-drivers/hw_fence \
     qcom/opensource/mm-drivers/msm_ext_display \
