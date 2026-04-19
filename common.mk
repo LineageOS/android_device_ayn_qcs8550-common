@@ -144,6 +144,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.health-service.qti
 
+# IDC
+PRODUCT_PACKAGES += \
+    moorechip_controller_idc
+
 # IPACM
 PRODUCT_PACKAGES += \
     ipacm \
@@ -169,6 +173,10 @@ PRODUCT_ENABLE_UFFD_GC := true
 
 PRODUCT_COPY_FILES += \
     kernel/ayn/qcs8550/modules.systemdlkm_blocklist.msm.kalama:$(TARGET_COPY_OUT_VENDOR_DLKM)/lib/modules/system_dlkm.modules.blocklist
+
+# Keylayout
+PRODUCT_PACKAGES += \
+    moorechip_controller_kl
 
 # Keymint
 PRODUCT_PACKAGES += \
@@ -254,7 +262,8 @@ PRODUCT_SHIPPING_API_LEVEL := $(BOARD_SHIPPING_API_LEVEL)
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
-    $(LOCAL_PATH)
+    $(LOCAL_PATH) \
+    hardware/ayn
 
 # Storage
 $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
