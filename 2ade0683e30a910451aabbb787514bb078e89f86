@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "00d97f33_0b3d8c06",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-04-22T15:58:41Z",
+      "side": 1,
+      "message": "fyi Aperture can still use external USB cameras, think twice before excluding it",
+      "revId": "2ade0683e30a910451aabbb787514bb078e89f86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
