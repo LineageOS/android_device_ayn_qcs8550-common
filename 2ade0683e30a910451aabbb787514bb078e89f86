@@ -16,6 +16,24 @@
       "message": "fyi Aperture can still use external USB cameras, think twice before excluding it",
       "revId": "2ade0683e30a910451aabbb787514bb078e89f86",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aa13dd5e_448fcdaa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-22T16:35:13Z",
+      "side": 1,
+      "message": "My rule of thumb is, if the device has a type A port I leave it included.\n\nIf it\u0027s single type C only, I disclude it if camera isn\u0027t on the device - it just confuses the user in reality sadly :/",
+      "parentUuid": "00d97f33_0b3d8c06",
+      "revId": "2ade0683e30a910451aabbb787514bb078e89f86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
