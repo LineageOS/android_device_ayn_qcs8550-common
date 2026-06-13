@@ -132,6 +132,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/generic_ramdisk.mk)
 PRODUCT_PACKAGES += \
     fastbootd
 
+# Fingerprint
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    BuildFingerprint=Razer/Nicole/Razer-Edge-WiFi:12/SKQ1.211103.001/172:user/release-keys
+
 # Graphics
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.opengles.aep.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.opengles.aep.xml \
