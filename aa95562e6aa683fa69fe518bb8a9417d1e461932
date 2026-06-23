@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "83253f94_9b2106ff",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 30
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-06-23T08:50:37Z",
+      "side": 1,
+      "message": "Opted out since cdsp is disabled iirc.",
+      "revId": "aa95562e6aa683fa69fe518bb8a9417d1e461932",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
