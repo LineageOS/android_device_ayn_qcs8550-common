@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3d3fe6b8_606cff92",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-06-29T06:07:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f8c6c303_bfc1fd22",
+      "range": {
+        "startLine": 135,
+        "startChar": 0,
+        "endLine": 135,
+        "endChar": 64
+      },
+      "revId": "dba9e4aad287a93d766e7a213986f8eee9dc12c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5cb9dd04_6442a65a",
@@ -37,6 +61,30 @@
       "writtenOn": "2026-02-25T06:50:40Z",
       "side": 1,
       "message": "did you spot check this to stock using AVBtool?",
+      "range": {
+        "startLine": 142,
+        "startChar": 0,
+        "endLine": 142,
+        "endChar": 47
+      },
+      "revId": "dba9e4aad287a93d766e7a213986f8eee9dc12c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3174b994_233fc486",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-06-29T06:07:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5cb9dd04_6442a65a",
       "range": {
         "startLine": 142,
         "startChar": 0,
