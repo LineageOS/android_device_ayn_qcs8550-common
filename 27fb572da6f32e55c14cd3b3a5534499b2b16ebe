@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c3afd8d8_9b0b22e8",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-06-29T06:08:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d48d3d5c_1afb26b8",
+      "range": {
+        "startLine": 94,
+        "startChar": 0,
+        "endLine": 94,
+        "endChar": 50
+      },
+      "revId": "27fb572da6f32e55c14cd3b3a5534499b2b16ebe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "553838c5_ac093677",
@@ -47,6 +71,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "afa33255_de2b9c67",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-06-29T06:08:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "553838c5_ac093677",
+      "range": {
+        "startLine": 103,
+        "startChar": 39,
+        "endLine": 103,
+        "endChar": 43
+      },
+      "revId": "27fb572da6f32e55c14cd3b3a5534499b2b16ebe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f79613f8_457d4a22",
@@ -60,6 +108,30 @@
       "writtenOn": "2026-02-25T06:47:46Z",
       "side": 1,
       "message": "just set this to SUPER_PARTITON_SIZE- -4MiB like some other devices do, that way if someone resizes super partition, dynamic grows consumerate.",
+      "range": {
+        "startLine": 110,
+        "startChar": 37,
+        "endLine": 110,
+        "endChar": 47
+      },
+      "revId": "27fb572da6f32e55c14cd3b3a5534499b2b16ebe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1dafd9e3_28eb1a4b",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-06-29T06:08:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f79613f8_457d4a22",
       "range": {
         "startLine": 110,
         "startChar": 37,
