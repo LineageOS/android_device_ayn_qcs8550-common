@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f5a67907_ea3e6348",
+        "filename": "overlay/FrameworksResTarget/res/values/config.xml",
+        "patchSetId": 35
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-30T22:30:29Z",
+      "side": 1,
+      "message": "these defs don\u0027t match stock but sum spam stuff - we will follow it up later.",
+      "revId": "cd93041749bfd6271c5c6270e3204c56e9044a2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "24e0b7a9_1c902af5",
+        "filename": "overlay/FrameworksResTarget/res/values/config.xml",
+        "patchSetId": 35
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-30T22:30:29Z",
+      "side": 1,
+      "message": "do we? This doesn\u0027t work for me on Thor.",
+      "revId": "cd93041749bfd6271c5c6270e3204c56e9044a2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4020a3d0_582ad2f1",
+        "filename": "overlay/FrameworksResTarget/res/values/dimens.xml",
+        "patchSetId": 35
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-30T22:30:29Z",
+      "side": 1,
+      "message": "make sure these match stock?",
+      "revId": "cd93041749bfd6271c5c6270e3204c56e9044a2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "28d3c8c4_6f0878d1",
+        "filename": "overlay/SystemUIResTarget/res/values/dimens.xml",
+        "patchSetId": 35
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-30T22:30:29Z",
+      "side": 1,
+      "message": "this is from Nicole, check the commit there to see how I dealt w/ it",
+      "revId": "cd93041749bfd6271c5c6270e3204c56e9044a2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
