@@ -86,6 +86,8 @@ focaltech_fts.ko
 hynitron.ko
 synaptics_dsx.ko
 moorechip-joystick.ko
+leds-htr3212.ko
+leds-sn3112.ko
 synx-driver.ko
 sysmon_subsystem_stats.ko
 sys_pm_vx.ko
