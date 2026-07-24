@@ -231,6 +231,10 @@ PRODUCT_COPY_FILES += \
 # Product characteristics
 PRODUCT_CHARACTERISTICS := tablet
 
+# Recovery
+PRODUCT_PACKAGES += \
+    recovery_rgb
+
 # Sensors
 PRODUCT_PACKAGES += \
     android.hardware.sensors-service.multihal \
