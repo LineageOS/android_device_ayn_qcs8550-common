@@ -16,6 +16,23 @@
       "message": "To be tested as well",
       "revId": "19fd5c5572091496c3213aa43eb55a5c5d0ce29b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2264557c_dde98445",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-08-17T13:36:26Z",
+      "side": 1,
+      "message": "This should be set in device specific tree if needed. For testing, it\u0027s fine here, but won\u0027t be merged.",
+      "revId": "19fd5c5572091496c3213aa43eb55a5c5d0ce29b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
