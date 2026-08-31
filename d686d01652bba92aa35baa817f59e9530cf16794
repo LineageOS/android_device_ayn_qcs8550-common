@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "41bad2b8_0b085bdf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-08-31T09:37:47Z",
+      "side": 1,
+      "message": "Doesn\u0027t this come with a more recent vendor SPL?",
+      "revId": "d686d01652bba92aa35baa817f59e9530cf16794",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
