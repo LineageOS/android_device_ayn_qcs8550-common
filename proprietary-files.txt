@@ -1,3 +1,4 @@
+
 ## All proprietary files from this list, unless pinned and noted otherwise, are
 ## from Thor.20260112.215904
 
@@ -970,6 +971,9 @@ vendor/lib64/libwfduibcsrcinterface_vendor.so
 vendor/lib64/libwfdutils_proprietary.so
 vendor/lib64/vendor.qti.hardware.wifidisplaysession@1.0.so;MODULE_SUFFIX=_vendor
 vendor/lib64/vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl.so
+
+# WiFi firmware - from Odin2P.20250312.203450 NON-HLOS.bin/modem.img
+vendor/firmware/kiwi/amss20.bin|9b4f162b1c2039c3e6bae0c38b87a7b47fbdb8f8
 
 # Widevine DRM
 vendor/bin/hw/android.hardware.drm-service.widevine
