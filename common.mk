@@ -230,7 +230,7 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/opensource/power/config/kalama/powerhint.xml:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.xml
 
 # Product characteristics
-PRODUCT_CHARACTERISTICS := tablet
+PRODUCT_CHARACTERISTICS := device
 
 # Sensors
 PRODUCT_PACKAGES += \
