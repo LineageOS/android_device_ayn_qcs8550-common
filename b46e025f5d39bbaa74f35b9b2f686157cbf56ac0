@@ -16,6 +16,24 @@
       "message": "```\nodin2thor / # ls -alZ /dev/block/by-name/vm-bootsys_*\nlrwxrwxrwx 1 root root u:object_r:block_device:s0  16 1970-04-21 11:03 /dev/block/by-name/vm-bootsys_a -\u003e /dev/block/sde22\nlrwxrwxrwx 1 root root u:object_r:block_device:s0  16 1970-04-21 11:03 /dev/block/by-name/vm-bootsys_b -\u003e /dev/block/sde41\nodin2thor / # mkdir /mnt/product/vm-persist/\nlost+found/ trustedvm/\n```",
       "revId": "b46e025f5d39bbaa74f35b9b2f686157cbf56ac0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "05681a4a_9e7a2989",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-22T23:18:08Z",
+      "side": 1,
+      "message": "which device is your log pulled from?",
+      "parentUuid": "ad8fa3f7_5129d601",
+      "revId": "b46e025f5d39bbaa74f35b9b2f686157cbf56ac0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
