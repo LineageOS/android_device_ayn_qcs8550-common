@@ -68,6 +68,24 @@
       "message": "Though not sure if we need this.",
       "revId": "b46e025f5d39bbaa74f35b9b2f686157cbf56ac0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "451c5bd6_3c8f505b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T04:42:14Z",
+      "side": 1,
+      "message": "odin2portal, it looks like - I have this ```odin2thor /vendor # ls -alh /mnt/product/vm-persist/trustedvm/persist.img\n-rw-r--r-- 1 root root 113M 2024-02-29 05:06 /mnt/product/vm-persist/trustedvm/persist.img```",
+      "parentUuid": "05681a4a_9e7a2989",
+      "revId": "b46e025f5d39bbaa74f35b9b2f686157cbf56ac0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
